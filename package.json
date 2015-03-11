@@ -1,6 +1,6 @@
 {
-  "name": "ttfinfo",
-  "version": "0.2.0",
+  "name": "fontinfo",
+  "version": "0.2.5",
   "main": "index.js",
   "repository": {
     "type": "git",
